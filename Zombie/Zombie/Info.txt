@@ -1,0 +1,29 @@
+You are on an island surrounded by zombies.
+You must survive until all the zombies are killed and avoid
+manholes and the surrounding nuclear radiation.
+
+If a zombie falls in a manhole it will die.
+There are also other trapped survivors on the island
+if you can reach and save them before they are eaten
+they will join your group.
+If a zombie lands on you, you will die, however
+if you have other survivors in your group one will
+sacrfice themselves to kill the zombie and allow
+you and your group to stay alive.
+Be careful as zombies may group up on the same position
+and appear to just be one but could in fact be a hoard.
+Zombies will move after you do, at first they will move
+randomly but after half of them are killed they will
+be able to smell you and begin to follow you if you get too
+close.
+
+You start off with a set amount of points depending on
+the map size and difficulty you select.
+Every move you take you will lose 100 points, if
+your score reaches 0 you  will die from starvation
+On easy mode you gain 100 points for each zombie that dies
+and 200 points on hard mode.
+If you survive you will recieve a winners bonus, but
+if you lose you will recieve a penalty depending on how
+you died.
+You also recieve 250 points each time you save a survivor.

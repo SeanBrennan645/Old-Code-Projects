@@ -1,0 +1,10 @@
+Player Scores:
+Sean 93800 Small map Hard Lost Game
+Rick 88900 Medium map Easy Lost Game
+Samus 288400 Large map Hard Lost Game
+Dan 55350 Small map Easy Won Game
+Sean 220150 Medium map Hard Won Game
+Blah 87400 Medium map Easy Lost Game
+timmothy 53100 Small map Easy Won Game
+timmothy 324300 Large map Hard Won Game
+sean 41750 Small map Easy Lost Game

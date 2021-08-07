@@ -1,0 +1,18 @@
+﻿  Character.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  console.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Manhole.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Player.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Source.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\Source.cpp(202,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Surviviour.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Zombie.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+F:\Old Uni Stuf\Year 1 Stuff\Zombie\Zombie\Zombie.cpp(149,29): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating Code...
+  Zombie.vcxproj -> F:\Old Uni Stuf\Year 1 Stuff\Zombie\Debug\ZombieGame.exe

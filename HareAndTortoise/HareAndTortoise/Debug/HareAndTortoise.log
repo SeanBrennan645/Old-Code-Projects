@@ -1,0 +1,8 @@
+﻿  console.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Game Development Stuff\HareAndTortoise\HareAndTortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Hare.cpp
+  Source.cpp
+F:\Old Uni Stuf\Year 1 Stuff\Game Development Stuff\HareAndTortoise\HareAndTortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Tortoise.cpp
+  Generating Code...
+  HareAndTortoise.vcxproj -> F:\Old Uni Stuf\Year 1 Stuff\Game Development Stuff\HareAndTortoise\Debug\HareAndTortoise.exe

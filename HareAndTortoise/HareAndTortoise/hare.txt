@@ -1,0 +1,10 @@
+Sleep 0
+Sleep 0
+Big_Hop 9
+Big_Hop 9
+Big_Slip -12
+Small_Hop 1
+Small_Hop 1
+Small_Hop 1
+Small_Slip -2
+Small_Slip -2
